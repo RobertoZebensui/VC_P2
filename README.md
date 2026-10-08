@@ -39,6 +39,7 @@ Solo se ha usado para buscar una manera eficiente en numpy de cómo seleccionar 
 ## Fuentes
 
 Cuaderno de la práctica 2 de la asignatura: https://github.com/otsedom/otsedom.github.io/blob/main/VC/P2
+
 My little piece of Privacy: https://www.niklasroy.com/project/88/my-little-piece-of-privacy
 
 ## Autor
